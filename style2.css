@@ -1,0 +1,96 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#titulo{
+  font-family: sans-serif;
+  color: rgb(9, 10, 17);
+  margin-left: 0%;
+}
+
+body{
+  font-family: sans-serif;
+  font-size: 1em;
+  color: rgb(2, 2, 22);
+  margin-left: 65%;
+  margin-top: 10%;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
+}
+
+body{
+  background-image: url('imagem/click.jpg');
+  background-size: cover;
+}
+
+.div-menu{
+  /* cor da barra de menus */
+  justify-content: space-evenly;
+}
+
+
+input, select, textarea, button{
+  border-radius: 5px;
+}
+
+.campo{
+  margin-bottom: 1em;
+}
+
+.campo label{
+  margin-bottom: 0.2em;
+  color: rgb(9, 9, 12);
+  display: block;
+}
+
+.campo input[type="texte"], .campo input[type="email"], .campo select, .campo textarea{
+  padding: 0.2em;
+  border: 1px solid #0a080f;
+  display: block;
+  
+}
+
+Input {
+  border: none;
+  border-bottom: 2px solid black;
+  }
+
+  #box ul{
+    list-style: none;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 340px;
+    border: none;
+    border-radius: 20px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+  }
+
+  
+  
+.botao{
+  font-size: 1.2em;
+  background: rgb(192, 192, 228);
+  position: absolute;
+  margin-left: 8%;
+  border: none;
+  font-size: 24px;
+}
+
+.btn-menu{
+  font-size: 24px;
+
+}
+footer{
+  background-color: black;
+}
+
+
+
+
+
+
