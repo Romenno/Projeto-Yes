@@ -1,0 +1,15 @@
+body {
+  background-image: url('imagem/cliente4.jpg');
+  background-size: cover;
+}
+
+h1{
+  list-style: none;
+  width: 300px;
+  height: 500;
+  padding-top: 30%;
+}
+
+.btn-menu{
+  font-size: 24px;    
+}
