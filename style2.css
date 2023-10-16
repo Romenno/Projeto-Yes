@@ -50,7 +50,6 @@ input, select, textarea, button{
 
 .campo input[type="texte"], .campo input[type="email"], .campo select, .campo textarea{
   padding: 0.2em;
-  border: 1px solid #0a080f;
   display: block;
   
 }
